@@ -52,7 +52,7 @@ Description: Allow users to access and view content from TCT TV's catalog of mov
 
 Technologies: React Native, Firebase, Expo
 
-Links: [Play Store - Android Mobile](https://play.google.com/store/apps/details?id=tv.halogen.androhttps://play.google.com/store/apps/details?id=com.tcttv.tcttv&hl=en_US) | [App Store - iOS](https://apps.apple.com/us/app/tct-live-and-on-demand-tv/id376196467) | [Play Store - Android TV](https://play.google.com/store/apps/details?id=com.tcttv.tv.android&hl=en_US)
+Links: [Play Store - Android Mobile](https://play.google.com/store/apps/details?id=com.tcttv.tcttv&hl=en_US) | [App Store - iOS](https://apps.apple.com/us/app/tct-live-and-on-demand-tv/id376196467) | [Play Store - Android TV](https://play.google.com/store/apps/details?id=com.tcttv.tv.android&hl=en_US)
 
 
 ## Courses That I Have Created
@@ -60,8 +60,7 @@ Links: [Play Store - Android Mobile](https://play.google.com/store/apps/details?
 ### Udacity (working at ASG @ Google)
 
 #### Android Fundamentals
-Link: [Android Fundamentals]
-([https://www.udacity.com/course/new-android-fundamentals--ud851](https://www.udacity.com/course/new-android-fundamentals--ud851))
+Link: [Android Fundamentals](https://www.udacity.com/course/new-android-fundamentals--ud851)
 ##### Supplemental Material
 
 * [Sunshine Application Source Code](https://github.com/udacity/ud851-Sunshine)
