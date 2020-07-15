@@ -41,7 +41,7 @@ Description: Application to allow for the live streaming and viewing of live str
 Technologies: Android
 
 Link: [Play Store](
-https://play.google.com/store/apps/details?id=tv.halogen.androi )
+https://play.google.com/store/apps/details?id=tv.halogen.android)
 
 
 ### TCT Cross Platform Media Catalog and Streaming Application 
