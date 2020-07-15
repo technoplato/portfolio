@@ -10,17 +10,27 @@ Technologies: React Native, Firebase, Expo
 
 Link: **currently private beta**, please email lustig@knophy.com for access
 
+
 ### Breed Up
 
 Platform: iOS (React Native)
+
 Description: Instagram style application with photo feed and chat functionality built to allow users to quickly and easily find other dog owners in the area and plan play dates.
+
 Technologies: React Native, Firebase, Expo
+
 Link: [App Store](https://apps.apple.com/us/app/breed-up-lets-breed-up/id1422524389)
+
 
 ### Beauty Time
 
 Platform: iOS (React Native)
+
 Description: Timing application to decrease the difficulty of keeping track of all the different timings of various simultaneous services that estheticians have to handle
+
+Technologies: React Native, Expo
+
+Link: **currently private beta**, please email lustig@knophy.com for access
 
 
 ### Halogen
@@ -28,7 +38,7 @@ Platform: Android (Java)
 
 Description: Application to allow for the live streaming and viewing of live streams. Unique coin model to purchase streams.
 
-Technologies: React Native, Firebase, Expo
+Technologies: Android
 
 Link: [Play Store](
 https://play.google.com/store/apps/details?id=tv.halogen.androi )
