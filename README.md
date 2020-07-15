@@ -3,8 +3,11 @@
 
 ### Cookies By Us
 Platform: iOS (React Native)
+
 Description: Instagram style application with photo feed and chat functionality built for custom cookie bakers. Easily allow for quick invoicing within the chat functionality.
+
 Technologies: React Native, Firebase, Expo
+
 Link: **currently private beta**, please email lustig@knophy.com for access
 
 ### Breed Up
@@ -22,8 +25,11 @@ Description: Timing application to decrease the difficulty of keeping track of a
 
 ### Halogen
 Platform: Android (Java)
+
 Description: Application to allow for the live streaming and viewing of live streams. Unique coin model to purchase streams.
+
 Technologies: React Native, Firebase, Expo
+
 Link: [Play Store](
 https://play.google.com/store/apps/details?id=tv.halogen.androi )
 
@@ -31,8 +37,11 @@ https://play.google.com/store/apps/details?id=tv.halogen.androi )
 ### TCT Cross Platform Media Catalog and Streaming Application 
 
 Platform: React Native, Android TV, iOS, Swift, Kotlin
+
 Description: Allow users to access and view content from TCT TV's catalog of movies, shows, and live streams. 
+
 Technologies: React Native, Firebase, Expo
+
 Links: [Play Store - Android Mobile](https://play.google.com/store/apps/details?id=tv.halogen.androhttps://play.google.com/store/apps/details?id=com.tcttv.tcttv&hl=en_US) | [App Store - iOS](https://apps.apple.com/us/app/tct-live-and-on-demand-tv/id376196467) | [Play Store - Android TV](https://play.google.com/store/apps/details?id=com.tcttv.tv.android&hl=en_US)
 
 
