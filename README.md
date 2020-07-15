@@ -64,7 +64,7 @@ Link: [Android Fundamentals](https://www.udacity.com/course/new-android-fundamen
 ##### Supplemental Material
 
 * [Sunshine Application Source Code](https://github.com/udacity/ud851-Sunshine)
-	* I rewrote this entire application in order to make code much more clear, hide complexity, and even added in interactive TODOs to make it easier for students to follow the lessons within Android Studio
+	* I rewrote this entire application in order to make code much more clear, hide complexity, and even added in [interactive TODOs](https://github.com/udacity/ud851-Sunshine/blob/student/S01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_forecast.xml#L17-L18) to make it easier for students to follow the lessons within Android Studio
 
 * [Example Applications](https://github.com/udacity/ud851-Exercises )
 	* I wanted to demonstrate concepts in a much more isolated fashion in order to decrease the cognitive load on the students. I wrote a majority of these applications in order to do so.
