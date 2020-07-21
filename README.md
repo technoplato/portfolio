@@ -1,4 +1,4 @@
-## [Downloadable Resume](https://github.com/technoplato/portfolio/blob/master/Michael%20Lustig.pdf)
+## [Downloadable Resume](https://github.com/technoplato/portfolio/blob/master/Michael%20Lustig.pdf) 
 
 ## Software I Have Developed
 
@@ -86,4 +86,4 @@ Link: [Android Fundamentals](https://www.udacity.com/course/new-android-fundamen
 #### [Getting Started with Firebase](https://teamtreehouse.com/library/getting-started-with-firebase)
 #### [Styles on Android](https://teamtreehouse.com/library/styles-and-themes-in-android)
 
-
+#### [EDIT RESUME](https://www.overleaf.com/read/kbhsskymppsg)
