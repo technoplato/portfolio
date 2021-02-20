@@ -42,8 +42,6 @@ Description: Timing application to decrease the difficulty of keeping track of a
 
 Technologies: React Native, Expo
 
-Link: **currently private beta**, please email lustig@knophy.com for access
-
 
 ### Halogen
 Platform: Android (Java)
