@@ -20,7 +20,7 @@ Description: Instagram style application with photo feed and chat functionality 
 
 Technologies: React Native, Firebase, Expo
 
-Link: **currently private beta**, please email lustig@knophy.com for access
+Link: **currently private beta**, please email for access
 
 
 ### Breed Up
