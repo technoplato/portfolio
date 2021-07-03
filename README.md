@@ -2,6 +2,17 @@
 
 ## Software I Have Developed
 
+### Bakkt Wallet, Bakkt Application Gateway Proxy
+
+Technologies: React Native, React, GraphQL Express NodeJS Server, Apollo Client, Shared React Module Monorepo, TypeScript
+
+Description: https://www.bakkt.com/
+
+Manage your digital assets, rewards, gift cards, cryptocurrency with Bakkt’s digital wallet.
+Discover money you never knew you had by using Bakkt to track, spend, and send your digital assets.
+
+Links: [Play Store - Android Mobile](https://play.google.com/store/apps/details?id=com.bakkt.wallet.consumer) | [App Store - iOS](https://apps.apple.com/us/app/bakkt/id1492458588) 
+
 ### TCT Cross Platform Media Catalog and Streaming Application 
 
 Platform: React Native, Android TV, iOS, Swift, Kotlin
