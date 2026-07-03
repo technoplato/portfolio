@@ -13,14 +13,12 @@ Communication-minded Senior Software Engineer specializing in AI-native, agent-a
 - [LinkedIn](https://www.linkedin.com/in/michaellustig/)
 - [GitHub](https://github.com/technoplato)
 - [Portfolio Source](https://github.com/technoplato/portfolio)
-- [Download Resume PDF](docs/assets/resume.michael-lustig.pdf)
-- [Download Resume Text](docs/assets/resume.michael-lustig.txt)
-- [Download CV PDF](docs/assets/cv.michael-lustig.pdf)
-- [Download CV Text](docs/assets/cv.michael-lustig.txt)
+- [Download Resume](docs/assets/resume.michael-lustig.pdf)
+- [Download CV](docs/assets/cv.michael-lustig.pdf)
 - [Repository Contents](#repository-contents)
 
 ## Repository Contents
 
 - `docs/index.html`: minimal GitHub Pages profile.
 - `docs/assets/`: resume and CV downloads used by GitHub Pages.
-- Root PDF artifacts: legacy direct-download files retained for existing links.
+- Root PDF artifacts: canonical and legacy direct-download files retained for existing links.
