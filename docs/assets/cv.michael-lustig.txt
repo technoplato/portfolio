@@ -5,6 +5,8 @@ lustig.dev@gmail.com ⋄ (618) 920-1167 ⋄
 
 ⋄⋄
 
+⋄
+
 PROFESSIONAL SUMMARY
 Communication-minded Senior Software Engineer specializing in AI-native, agent-addressable systems. I use
 clean architectural principles to build applications that are easy for both humans and LLM agents to understand
