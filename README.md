@@ -9,7 +9,7 @@ Communication-minded Senior Software Engineer specializing in AI-native, agent-a
 ## Table Of Contents
 
 - [Professional Blurb](#professional-blurb)
-- [GitHub Pages Profile](https://technoplato.github.io/portfolio/)
+- [Portfolio Website](https://technoplato.github.io/portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/michaellustig/)
 - [GitHub](https://github.com/technoplato)
 - [Portfolio Source](https://github.com/technoplato/portfolio)
