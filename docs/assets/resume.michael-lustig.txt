@@ -1,0 +1,128 @@
+MICHAEL LUSTIG
+lustig.dev@gmail.com ⋄ (618) 920-1167 ⋄
+
+⋄
+
+⋄⋄
+
+PROFESSIONAL SUMMARY
+Staff Software Engineer with extensive experience in React Native, Web3, and state management systems.
+Proven track record of leading teams in developing sophisticated cryptocurrency and blockchain applications.
+Expert in implementing complex state machines, real-time data synchronization, and secure authentication
+systems. Passionate about leveraging cutting-edge technologies to build scalable, user-centric applications.
+EDUCATION
+Florida State University
+B.S. in Computer Science, Minor in Mathematics
+Focus on Software Engineering and Mathematics
+
+2011 – 2015
+
+TECHNICAL SKILLS
+Core
+Web3
+Mobile
+Backend
+DevOps
+
+React Native, React, TypeScript, JavaScript, XState, React Query, RxJS, Zustand
+Solana, Ethereum, Smart Contracts, XMTP, Privy, Thirdweb, Passkeys, NFTs
+Expo, React Navigation, Swift, Java, Kotlin, Objective-C, Bluetooth
+Node.js, Bun, GraphQL, Firebase, JWT, AppCheck, WebSockets, Docker, ngrok
+GitHub Actions, CI/CD, Testing (Jest, RTL, Percy), zod, Unleash
+
+EXPERIENCE
+Ephemera
+September 2024 – Present
+Staff Software Engineer - React Native
+· Built onboarding flow with Passkeys, Privy, and Smart Ethereum Wallets for fee-free transactions
+· Developed chat composer with seamless user search, optimistic updates, and conversation previewing
+· Implemented JWT authentication with Firebase App Check to secure client-server communications
+· Created dependency control pattern and reorganized codebase to package features
+· Established React Query patterns for efficient state management and query persistence
+· Led effort to establish best practice documentation via ADRs (Any Decision Record)
+Jabra Hearing
+March 2021 – September 2024
+Senior React Native Engineer
+· Led diagnostic tooling integration using XState for Bluetooth-enabled hearing aids
+· Resolved critical Bluetooth pairing issues affecting hundreds of users through advanced debugging
+· Architected dynamic dependency management system improving developer workflow and testing
+· Developed proprietary framework agnostic state sharing library using Actor Model principles
+· Implemented AB testing framework with Zod payload validation and automatic reporting
+· Led upgrade from XState v4 to v5, improving state management across the application
+Bakkt
+August 2020 – March 2021
+Fullstack Software Engineer
+· Led development of cryptocurrency wallet and Application Gateway Proxy with GraphQL
+· Implemented native Expo modules for Google Wallet and Apple Pay integration
+· Applied Finite State Machines for complex crypto transaction flows and bank linking
+· Fostered strong pair programming culture and standardized best practices
+· Collaborated with VP of Design for scalable DesignOps workflows
+TCT Ministries
+January 2015 – July 2020
+Android, iOS & React Native Developer
+· Led cross-platform development for media catalog and streaming applications, reducing codebase size using
+React Native and GraphQL
+· Migrated legacy Objective-C iOS and Java Android code bases to React Native
+· Interfaced with leadership to establish product roadmap and technical direction
+· Built greenfield software solutions and managed app store listings for both Google Play and Apple App Store
+
+NOTABLE PROJECTS
+NoIssue - XState Hackathon Winner
+2023
+Front-End Development Tool
+· Developed a convenient front-end tool integrating with GitHub repositories to provide a comprehensive overview
+of issues
+· Won the Orlando Developers Meetup & stately.ai XState Hackathon 2023
+· Technologies: XState, React, GitHub API
+Breed Up
+Lead Developer / Project Manager
+Mobile Application
+· Developed a location-based social platform for dog owners featuring pet breeding management
+· Implemented real-time database integration with Firebase and GeoJSON-based filtering
+· Link: GitHub
+· Technologies: React Native, Firebase, GeoJSON, TypeScript
+Beauty Time
+Lead Developer / Project Manager
+Mobile Application
+· Designed and developed a sophisticated app for aestheticians to manage multi-step timing for treatments
+· Created dual-timer feature for managing different treatments independently with intuitive UI
+· Integrated searchable database for product-specific timing requirements
+· Link: GitHub
+· Technologies: React Native, Expo, Redux, Redux Saga, TypeScript, Firebase
+TV Portal - MiTechLT LLC
+May 2012 – September 2016
+Founder, CTO, and Community Developer
+Remote
+· Founded a top-charting Android app with over 2 million downloads and 27,000+ social media followers
+· Managed earnings exceeding $40K and maintained a high user rating with over 4,300 reviews
+· Open-sourced the application, garnering nearly 100 GitHub stars
+· Link: GitHub
+PERSONAL PROJECTS
+GPT Custom Server
+2024
+AI Development Tool
+· Pioneered early AI tooling by creating a server enabling ChatGPT to interact with local filesystem and run
+tests
+· Implemented tunneling with ngrok for local development access and Docker containerization
+Technologies: TypeScript, Express, Docker, ngrok, Bun, Jest, Bash
+Proof of Listening
+Solana Hackathon Project
+· Built cross-platform audio recognition system with Solana NFT minting capabilities
+· Implemented dynamic mint pricing based on on-chain metadata
+· Integrated ShazamKit and whisper.cpp for audio processing
+· Demo: Watch here
+
+2023
+
+Technologies: Solana, Rust, React Native, TypeScript, Firebase, ShazamKit, Swift Kitura, Python
+Organic Software
+iOS Development Tool
+· Created iOS SwiftUI application utilizing The Composable Architecture
+· Implemented real-time speech transcription with on-device processing
+· Built LLM processing pipeline for code modifications and PR generation
+
+2023 – Present
+
+Technologies: SwiftUI, The Composable Architecture, OpenAI APIs, WebSockets, Apple Speech Framework
+
+
