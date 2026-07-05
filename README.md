@@ -4,7 +4,7 @@ This repository publishes Michael Lustig's portfolio landing page, resume, and C
 
 ## Professional Blurb
 
-Communication-minded Senior Software Engineer specializing in AI-native, agent-addressable systems. I utilize clean architectural principles to build applications that are easy for both humans and LLM agents to understand and control. By maintaining a clear North Star and making intentional architectural decisions, I dramatically accelerate development and debugging by allowing business logic to run independently of heavy frameworks - locally, in CLIs, and in CI. This approach prevents the code duplication and drift that occurs when any functionality is retrofitted onto existing systems, including and especially LLM-driven functionality that introduces agentic behavior.
+Communication-minded senior full-stack and mobile engineer across React, React Native, iOS, and Android, specializing in AI-native, agent-addressable product systems. Uses clean architecture to make applications predictable, observable, understandable, and replayable both by humans and LLM agents alike. Crafts architectural solution to allow LLM agents and humans alike to run core business logic run outside heavy UI frameworks through CLI enabled workflows. This approach both rapidly improves iteration and agility and provides a much more enjoyable developer experience. These strategies prevent duplication and drift when new (especially LLM-driven) features are retrofitted onto existing products. Solves problems methodically and turns architectural decisions into systems teams can inspect, debug, and extend.
 
 ## Table Of Contents
 
