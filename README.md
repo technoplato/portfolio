@@ -21,4 +21,3 @@ Communication-minded senior full-stack and mobile engineer across React, React N
 
 - `docs/index.html`: minimal GitHub Pages profile.
 - Root PDF artifacts: canonical and legacy direct-download files retained for existing links.
-- `docs/assets/`: fallback PDF copies retained for older direct links; homepage links use the GitHub root PDF references.
